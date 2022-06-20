@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.container {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(233, 47%, 7%);
+}
+
+.coloured {
+    color: hsl(277, 64%, 61%);
+}
+.para {
+    margin: 1em;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
+}
+.card {
+    background-color: hsl(244, 38%, 16%);
+    margin: 100px 30px 100px 100px;
+    padding: 80px 80px;
+}
+.info {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
+}
+    
+.information {
+    display: inline-block;
+    align-items: center;
+    padding: 10px;  
+}
+.heading {
+    margin: 20px;
+    align-items: center;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.image {
+    margin-right: 100px;
+    border-radius: 50%;
+    
+}
